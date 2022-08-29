@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Work in Progress
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+ <li> Who are the new nationalists (with <a href="https://sites.google.com/site/econmelki/">Mickael Melki</a> and <a href="https://sites.google.com/site/alessandroriboni/">Alessandro Riboni</a>)</li>
+</ul>
