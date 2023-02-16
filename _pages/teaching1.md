@@ -16,10 +16,10 @@ Main themes: Stationnarity, Ergodicity, ARIMA, VAR and VECM models, Cointegratio
 
 # Economics
 
--Course entitled “Introduction to macroeconomics” at ENSAE Paris (Undergraduate level) taught by Franck Malherbet and Olivier Loisel in 2023 (Spring) – [current course website](https://www.math-econ-code.org/).
+-Course entitled “Introduction to macroeconomics” at ENSAE Paris (Undergraduate level) taught by Franck Malherbet and Olivier Loisel in 2023 (Spring) – [current course website](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie).
 
 Main themes: Consumption smoothing, Beveridge curve, Inflation taxes.
 
--Course entitled “math+econ+code” at Sciences Po Paris (Graduate level) taught by Alfred Galichon in 2022 (Spring) and 2021 (Fall) – [current course website](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie).
+-Course entitled “math+econ+code” at Sciences Po Paris (Graduate level) taught by Alfred Galichon in 2022 (Spring) and 2021 (Fall) – [current course website](https://www.math-econ-code.org/).
 
 Main themes: Optimal transport, Linear Programming, Matching for gravity equation, Matching models with (im)perfectly transferable utility.
