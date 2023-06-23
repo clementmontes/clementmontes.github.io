@@ -12,4 +12,4 @@ author_profile: true
     - <font size="3"> Main themes: Stationnarity, Ergodicity, ARIMA models, VAR and VECM models, Cointegration, Granger causality. </font>
 
 * [math+econ+code](https://www.math-econ-code.org), Sciences Po Paris, Prof. Alfred Galichon (Graduate level, Fall 2021, Spring 2022)  
-    - <font size="3"> Main themes: Optimal transport in networks, Penalized optimal transport (application to gravity equation), Matching with (im)perctly transferable utility. </font>
+    - <font size="3"> Main themes: Optimal transport in networks, Penalized optimal transport (application to gravity equation), Matching with (im)perfect transferable utility. </font>
