@@ -5,10 +5,6 @@ permalink: /teaching1/
 author_profile: true
 ---
 
-
-## Teaching
-
-<<<<<<< HEAD
 - [Introduction to macroeconomics](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie), ENSAE Paris, Teaching Assistant for Prof. Franck Malherbet and Prof. Olivier Loisel (Undergraduate level, Spring 2023)
 Main themes: Beveridge curve, Inflation taxes, Exogenous growth models, IS-LM model
 
