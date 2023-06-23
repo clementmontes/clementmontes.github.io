@@ -8,6 +8,7 @@ author_profile: true
 
 ## Teaching
 
+<<<<<<< HEAD
 - [Introduction to macroeconomics](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie), ENSAE Paris, Teaching Assistant for Prof. Franck Malherbet and Prof. Olivier Loisel (Undergraduate level, Spring 2023)
 Main themes: Beveridge curve, Inflation taxes, Exogenous growth models, IS-LM model
 
@@ -15,4 +16,3 @@ Main themes: Beveridge curve, Inflation taxes, Exogenous growth models, IS-LM mo
 Main themes: Stationnarity, Ergodicity, ARIMA models, VAR and VECM models, Cointegration, Granger causality.
 
 - [math+econ+code](https://www.math-econ-code.org), Sciences Po Paris, Prof. Alfred Galichon (Graduate level, Fall 2021, Spring 2022)
-Main themes: Optimal transport, Linear Programming, Matching for gravity equation, Matching models with (im)perfectly transferable utility.
