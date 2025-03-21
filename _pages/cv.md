@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-* M.S. in Economics, [Institut Polytechnique de Paris](https://www.ip-paris.fr/en), 2021
-* Economics and Statistics Engineering Degree, [ENSAE Paris](https://www.ensae.fr/en), 2021
-* Preparatory classes in Mathematics and Physics, Lycée Kléber, 2018
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-
-You can find my full résumé [here](https://clementmontes.github.io/files/CM_CV.pdf)
+You can find my CV [here](https://clementmontes.github.io/files/CM_CV.pdf)
