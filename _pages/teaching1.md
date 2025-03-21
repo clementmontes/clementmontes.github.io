@@ -15,7 +15,7 @@ author_profile: true
 
 ---
     
-## $${\color{magenta}{\texttt{Graduate Econometrics}}}$$
+## Graduate Econometrics
 
 * Fall 2024 -- [$${\color{purple}{\texttt{Econometrics}}}$$](https://www.ensae.fr/courses/6099), Prof. E. Lapenta (ENSAE Paris)
 
