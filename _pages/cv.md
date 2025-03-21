@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](https://clementmontes.github.io/files/CM_CV.pdf)
+You can find my CV [$${\color{purple}{\texttt{here}}}$$](https://clementmontes.github.io/files/CM_CV.pdf)
 
 ---
 

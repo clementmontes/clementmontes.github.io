@@ -9,12 +9,12 @@ author_profile: true
 
 ##Graduate TA of Macroeconomics at ENSAE Paris
 
-* Spring 2024 -- [$${\color{lightgreen}{\texttt{Macroeconomics} \space \texttt{of} \space \texttt{fluctuation}}}$$](https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations), Prof. F. Malherbet and Prof. P. Winant  
+* Spring 2024 -- [$${\color{purple}{\texttt{Macroeconomics} \space \texttt{of} \space \texttt{fluctuation}}}$$](https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations), Prof. F. Malherbet and Prof. P. Winant  
     
-* Fall 2023, 2024 -- [Macroeconomics of growth](https://www.ensae.fr/courses/5841-macroeconomie-1), Prof. O. Loisel  
+* Fall 2023, 2024 -- [$${\color{purple}{\texttt{Macroeconomics of growth}}$$](https://www.ensae.fr/courses/5841-macroeconomie-1), Prof. O. Loisel  
     
     
-##Graduate TA of Econometrics
+## $${\color{magenta}{\texttt{Graduate TA of Econometrics}}$$
 
 * Fall 2024 -- [Econometrics](https://www.ensae.fr/courses/6099), Prof. E. Lapenta (ENSAE Paris)
 
