@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![Franche-Comté is beautiful.](https://github.com/clementmontes/clementmontes.github.io/blob/master/images/FrancheComte.png)
+![Franche-Comté is beautiful.](https://clementmontes.github.io/files/FC.pdf)
 
 You can find my CV [here](https://clementmontes.github.io/files/CM_CV.pdf)
+<embed src="https://clementmontes.github.io/files/CM_CV.pdf" type="files/" />
