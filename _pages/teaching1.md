@@ -6,7 +6,7 @@ author_profile: true
 ---
 Graduate TA of Macroeconomics at ENSAE Paris
 
-* Spring 2024 -- [«code style="color : aquamarine">Macroeconomics of fluctuation</code>](https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations), Prof. Franck Malherbet and Prof. Pablo Winant  
+* Spring 2024 -- [$${\color{lightgreen}Macroeconomics of fluctuation}$$](https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations), Prof. Franck Malherbet and Prof. Pablo Winant  
     
 * Fall 2023, 2024 -- [Macroeconomics of growth](https://www.ensae.fr/courses/5841-macroeconomie-1), Prof. Olivier Loisel  
     
