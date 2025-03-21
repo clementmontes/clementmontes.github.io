@@ -4,22 +4,23 @@ title: "Teaching"
 permalink: /teaching1/
 author_profile: true
 ---
+Graduate TA of Macroeconomics at ENSAE Paris
 
-
-* [Macroeconomics of fluctuation](https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations), ENSAE Paris, Teaching Assistant for Prof. Franck Malherbet and Prof. Pablo Winant (Graduate level, Spring 2024). In French.  
-    - <font size="3"> Main themes: DSGE models. </font>
+* Spring 2024 -- [$${\color{lightgreen}Macroeconomics \space of \space fluctuation}$$](https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations), Prof. Franck Malherbet and Prof. Pablo Winant  
     
-* [Macroeconomics of growth](https://www.ensae.fr/courses/5841-macroeconomie-1), ENSAE Paris, Teaching Assistant for Prof. Olivier Loisel (Graduate level, Fall 2023). In French.  
-    - <font size="3"> Main themes: Solow's model, Model of Cass-Koopmans-Ramsey, Romer's model (both 1986 and 1990), Weil's model. </font>
+* Fall 2023, 2024 -- [Macroeconomics of growth](https://www.ensae.fr/courses/5841-macroeconomie-1), ENSAE Paris, Teaching Assistant for Prof. Olivier Loisel  
     
-* [Introduction to Linear time series](https://www.ip-paris.fr/en/education/masters/economics-program/master-year-1-economics), Master in Economics, Teaching Assistant for Prof. Zakoian (Graduate level, Fall 2023). In English.  
-    - <font size="3"> Main themes: Stationnarity, Ergodicity, ARIMA models, VAR and VECM models. </font>
     
-* [Introduction to macroeconomics](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie), ENSAE Paris, Teaching Assistant for Prof. Franck Malherbet and Prof. Olivier Loisel, then Prof. Suzanne Bellue(Undergraduate level, Spring 2023 & 2024). In French.
-    - <font size="3"> Main themes: Beveridge curve, Inflation taxes, Exogenous growth models, IS-LM model. </font>
+Graduate TA of Econometrics
 
-* [Linear time series](https://www.ensae.fr/courses/146), ENSAE Paris, Teaching Assistant for Prof. Christian Francq (Graduate level, Spring 2023). In French.  
-    - <font size="3"> Main themes: Stationnarity, Ergodicity, ARIMA models, VAR and VECM models, Cointegration, Granger causality. </font>
+* Fall 2024 -- [Econometrics](https://www.ensae.fr/courses/6099), Prof. Elia Lapenta (ENSAE Paris)
 
-* [math+econ+code](https://www.math-econ-code.org), Sciences Po Paris, Prof. Alfred Galichon (Graduate level, Fall 2021, Spring 2022). In English.  
-    - <font size="3"> Main themes: Optimal transport in networks, Penalized optimal transport (application to gravity equation), Matching with (im)perfect transferable utility. </font>
+* Fall 2023 -- [Introduction to Linear time series](https://www.ip-paris.fr/en/education/masters/economics-program/master-year-1-economics), Prof. Jean-Michel Zakoian (Institut Polytechnique de Paris)
+
+* Spring 2023 -- [Linear time series](https://www.ensae.fr/courses/146), Prof. Christian Francq (ENSAE Paris)
+
+* Fall 2021, Spring 2022 -- [math+econ+code](https://www.math-econ-code.org), Prof. Alfred Galichon (Sciences Po Paris)  
+
+Undergraduate TA of Macroeconomics at ENSAE Paris
+
+* Spring 2023, 2024 -- [Introduction to macroeconomics](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie), ENSAE Paris, Prof. Franck Malherbet and Prof. Olivier Loisel, then Prof. Suzanne Bellue 
