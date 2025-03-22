@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [$${\color{purple}{\texttt{CREST}}}$$](https://crest.science/)/[$${\color{purple}{\texttt{Ecole Polytechnique}}}$$](https://www.ip-paris.fr/en) under the supervision of Prof. [$${\color{purple}{\texttt{Alessandro Riboni}}}$$](https://sites.google.com/site/alessandroriboni/) (CREST, École Polytechnique) since October 2022.
+I am a PhD candidate at [$${\color{purple}{\texttt{CREST}}}$$](https://crest.science/)/[$${\color{purple}{\texttt{Ecole Polytechnique}}}$$](https://www.polytechnique.edu) under the supervision of Prof. [$${\color{purple}{\texttt{Alessandro Riboni}}}$$](https://sites.google.com/site/alessandroriboni/) since October 2022.
 
 My research lies in the field of geoeconomics and international trade, with a focus on economic sanctions.  
 
