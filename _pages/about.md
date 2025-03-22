@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [CREST](https://crest.science/)/[Institut Polytechnique de Paris (IP Paris)](https://www.ip-paris.fr/en) under the supervision of Prof. [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/) (CREST, École Polytechnique) since October 2022.
+I am a PhD candidate at [$${\color{purple}{\texttt{CREST}}}$$](https://crest.science/)/[$${\color{purple}{\texttt{Ecole Polytechnique}}}$$](https://www.ip-paris.fr/en) under the supervision of Prof. [$${\color{purple}{\texttt{Alessandro Riboni}}}$$](https://sites.google.com/site/alessandroriboni/) (CREST, École Polytechnique) since October 2022.
 
-I am interested in political economy, international trade and networks.  
-My research focuses on the effectiveness of *smart* sanctions.
+My research lies in the field of geoeconomics and international trade, with a focus on economic sanctions.  
 
-**Contact**: clement.montes@ensae.fr  
-**Office**: 4061, 4th floor at CREST
+I am currently visiting UC Berkeley, hosted by Cecile Gaubert.
+
+**$${\color{purple}{\texttt{Contact}}}$$**: clement.montes@ensae.fr  
+**$${\color{purple}{\texttt{Office}}}$$**: 4061, 4th floor at CREST
+
+---
+
+![Franche-Comté is beautiful.](https://clementmontes.github.io/files/IcebergTradeCost.png)
