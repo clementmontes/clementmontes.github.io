@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "TA sessions"
+title: "Teaching"
 permalink: /teaching1/
 author_profile: true
 ---

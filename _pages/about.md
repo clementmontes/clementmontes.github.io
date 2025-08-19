@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Welcome!"
 excerpt: "website"
@@ -11,8 +12,6 @@ redirect_from:
 I am a PhD candidate at [$${\color{purple}{\texttt{CREST}}}$$](https://crest.science/)/[$${\color{purple}{\texttt{Ecole Polytechnique}}}$$](https://www.polytechnique.edu) under the supervision of Prof. [$${\color{purple}{\texttt{Alessandro Riboni}}}$$](https://sites.google.com/site/alessandroriboni/) since October 2022.
 
 My research lies in the field of geoeconomics and international trade, with a focus on economic sanctions.  
-
-I am currently visiting UC Berkeley, hosted by Cecile Gaubert.
 
 **$${\color{purple}{\texttt{Contact}}}$$**: clement.montes@ensae.fr  
 **$${\color{purple}{\texttt{Office}}}$$**: 4061, 4th floor at CREST
