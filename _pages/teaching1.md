@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching1/
 author_profile: true
 ---
@@ -31,4 +31,4 @@ author_profile: true
 
 * Spring 2023, 2024 -- [$${\color{purple}{\texttt{Introduction to macroeconomics}}}$$](https://www.ensae.fr/courses/5083-introduction-la-macroeconomie), Prof. F. Malherbet and Prof. O. Loisel, then Prof. S. Bellue 
 
-<img src="https://clementmontes.github.io/files/IcebergTradeCost.png" alt="Iceberg trade cost in practice" width="200"/>
+<img src="https://clementmontes.github.io/files/IcebergTradeCost.png" alt="Iceberg trade cost in practice" width="1200"/>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ You can find my CV [$${\color{purple}{\texttt{here}}}$$](https://clementmontes.g
 
 ---
 
-![Franche-Comté is beautiful.](https://clementmontes.github.io/files/FC.png)
 
 
+<img src="https://clementmontes.github.io/files/FC.png" alt="Franche-Comté is beautiful" width="1800"/>
 
 
