@@ -18,4 +18,4 @@ My research lies in the field of geoeconomics and international trade, with a fo
 
 ---
 
-![Franche-Comté is beautiful.](https://clementmontes.github.io/files/IcebergTradeCost.png)
+![Patience is key](https://clementmontes.github.io/files/Volcan.png)
