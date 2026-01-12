@@ -32,6 +32,7 @@ gated bilateral trade flows. I find that secondary sanctions decreased average
 trade flows of sanctioned products by 38%. Ignoring the staggered enforcement
 of sanctions considerably biases the estimate, and overlooking the anticipations
 increases the variance of the estimate of the impact.
+</li>
 </ul>
 
 ---

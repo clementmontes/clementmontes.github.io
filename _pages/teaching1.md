@@ -8,7 +8,7 @@ author_profile: true
 ---
 ## Invited session at Ecole Polytechnique
 
-* December 2025 -- [$${\color{purple}{\texttt{International Economics}}$$], Prof. G. Corcos and Dr. D. Guereiro
+* December 2025 -- [$${\color{purple}{\texttt{International Economics}}}$$], Prof. G. Corcos and Dr. D. Guereiro
 [$${\color{purple}{\texttt{Slides on Geoeconomics}}}$$](https://clementmontes.github.io/files/Slides.pdf).
 
 
@@ -20,6 +20,7 @@ author_profile: true
 [$${\color{purple}{\texttt{Recap 1}}}$$](https://clementmontes.github.io/files/Recap1.pdf) $$\space$$
 [$${\color{purple}{\texttt{Recap 2}}}$$](https://clementmontes.github.io/files/Recap2.pdf) $$\space$$
 [$${\color{purple}{\texttt{Recap 3}}}$$](https://clementmontes.github.io/files/Recap3.pdf) $$\space$$
+[$${\color{purple}{\texttt{Recap 4}}}$$](https://clementmontes.github.io/files/Recap4.pdf) $$\space$$
 
 ---
     
