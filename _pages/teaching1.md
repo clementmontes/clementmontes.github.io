@@ -8,7 +8,7 @@ author_profile: true
 ---
 ## Invited session at Ecole Polytechnique
 
-* December 2025 -- [$${\color{purple}{\texttt{International Economics}}}$$], Prof. G. Corcos and Dr. D. Guereiro
+* December 2025 -- $${\color{purple}{\texttt{International Economics}}}$$, Prof. G. Corcos and Dr. D. Guereiro
 [$${\color{purple}{\texttt{Slides on Geoeconomics}}}$$](https://clementmontes.github.io/files/Slides.pdf).
 
 
