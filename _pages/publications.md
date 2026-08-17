@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 <div class="abstract-container">
   <div class="abstract-header">
     <span class="arrow">&#9654;</span>
-    <span><span class="accent">Sectoral vs. Firm-Level Sanctions in Trade Policy</span> <strong>[Job Market Paper]</strong></span>
+    <span><span class="paper-title">Sectoral vs. Firm-Level Sanctions in Trade Policy</span> <span class="jm-tag">[Job Market Paper]</span></span>
   </div>
   <div class="abstract-content">
     <div class="abstract-text">
@@ -25,7 +25,7 @@ author_profile: true
 <div class="abstract-container">
   <div class="abstract-header">
     <span class="arrow">&#9654;</span>
-    <span class="accent">The Extraterritoriality of Smart Sanctions</span>
+    <span class="paper-title">The Extraterritoriality of Smart Sanctions</span>
   </div>
   <div class="abstract-content">
     <div class="abstract-text">
@@ -39,4 +39,4 @@ author_profile: true
 
 ## Work in Progress
 
-- <span class="accent">The determinants of the success rate of firm-level sanctions</span>
+- <span class="paper-title">The determinants of the success rate of firm-level sanctions</span>

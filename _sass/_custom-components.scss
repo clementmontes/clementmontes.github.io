@@ -64,6 +64,19 @@ a.accent:hover,
 
 
 /*
+   Collapse the page heading when a page sets title: ""
+   (otherwise an empty <h1> still reserves vertical space)
+   ========================================================================== */
+
+.page__title:empty,
+.archive .page__title:empty {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+/*
    Collapsible "abstract" dropdowns (Research / Working Papers)
    ========================================================================== */
 
@@ -71,7 +84,8 @@ a.accent:hover,
   margin: 30px 0;
   border: 1px solid $border-color;
   border-radius: 16px;
-  background: $lighter-gray;
+  /* near-white, so the darker hover on the header is actually visible */
+  background: #fff;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(#000, 0.04);
@@ -88,12 +102,36 @@ a.accent:hover,
   font-weight: 700;
   display: flex;
   align-items: center;
+  justify-content: flex-start;
+  text-align: left;
   gap: 10px;
-  transition: background 0.2s;
+  background: #fff;
+  transition: background 0.2s ease;
 }
 
+/* Darken the title row while the cursor is over it */
 .abstract-header:hover {
-  background: $border-color;
+  background: mix($gray, #fff, 20%);
+}
+
+/* Keep a lighter tint while the abstract is open */
+.abstract-header.expanded {
+  background: mix($gray, #fff, 10%);
+}
+
+.abstract-header.expanded:hover {
+  background: mix($gray, #fff, 20%);
+}
+
+/* Paper titles in black; only the [Job Market Paper] tag is red */
+.paper-title {
+  color: #000;
+  font-weight: 700;
+}
+
+.jm-tag {
+  color: $accent-red;
+  font-weight: 700;
 }
 
 .abstract-header .arrow {
