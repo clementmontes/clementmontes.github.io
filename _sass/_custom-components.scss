@@ -10,6 +10,25 @@ $accent-red-hover    : #8e1c1c;
 
 
 /*
+   Red accent text — replaces the old $${\color{...}{\texttt{...}}}$$ MathJax
+   hack. Use <span class="accent">…</span>, or add class="accent" to a link.
+   ========================================================================== */
+
+.accent,
+a.accent,
+.accent a {
+  color: $accent-red;
+  font-family: $monospace;
+  font-size: 0.95em;
+}
+
+a.accent:hover,
+.accent a:hover {
+  color: $accent-red-hover;
+}
+
+
+/*
    Bigger profile photo (desktop) + a bit more breathing room in the sidebar
    ========================================================================== */
 
