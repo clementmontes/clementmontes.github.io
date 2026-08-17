@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: "website"
 author_profile: true
 redirect_from: 

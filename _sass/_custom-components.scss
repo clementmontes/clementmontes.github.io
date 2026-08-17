@@ -32,11 +32,13 @@ a.accent:hover,
    Bigger profile photo (desktop) + a bit more breathing room in the sidebar
    ========================================================================== */
 
-/* Rectangular profile photo with a fine red border (all pages) */
+/* Rectangular profile photo, red border tight against the image */
 .author__avatar img {
+  display: block;
   border-radius: 4px;
   border: 1px solid $accent-red;
-  padding: 3px;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 @include breakpoint($large) {
@@ -44,7 +46,7 @@ a.accent:hover,
     max-width: 220px;
     border-radius: 4px;
     border: 1px solid $accent-red;
-    padding: 3px;
+    padding: 0;
   }
 
   .sidebar {
@@ -68,8 +70,9 @@ a.accent:hover,
    Narrower text column (used on the welcome / about page)
    ========================================================================== */
 
+/* Home page content spans the same width as every other section */
 .narrow-content {
-  max-width: 640px;
+  max-width: 100%;
 }
 
 
@@ -374,7 +377,7 @@ a.recap-link {
    ========================================================================== */
 
 .sidebar .author__urls {
-  border: 1px solid $border-color;
+  border: 1px solid $accent-red;
   border-radius: 10px;
   padding: 12px 14px;
   background: #fff;
@@ -392,6 +395,10 @@ a.recap-link {
   font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.6;
+}
+
+.sidebar .author__urls,
+.sidebar .author__urls li {
   color: $text-color;
 }
 
@@ -403,9 +410,10 @@ a.recap-link {
 .sidebar .author__urls a {
   display: inline;
   text-decoration: none;
+  color: $accent-red;
 
   &:hover {
-    color: $accent-red;
+    color: $accent-red-hover;
     text-decoration: underline;
   }
 }
@@ -432,6 +440,11 @@ a.recap-link {
 
 .sidebar .author__name {
   text-align: center;
+  margin-bottom: 22px;
+}
+
+.sidebar .author__urls-wrapper {
+  margin-top: 14px;
 }
 
 
@@ -451,12 +464,12 @@ a.hover-red {
   }
 }
 
-/* Keep the home image the same width as the text column */
+/* Home image spans the full content width, like the other sections */
 .narrow-content img,
 img.narrow-img {
   display: block;
   width: 100%;
-  max-width: 640px;
+  max-width: 100%;
   height: auto;
 }
 
