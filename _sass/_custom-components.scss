@@ -9,6 +9,51 @@ $accent-red          : #c0392b;
 $accent-red-hover    : #8e1c1c;
 
 
+
+
+/* ==========================================================================
+   SITE FONT — Newsreader for body copy (as on peppecon.github.io),
+   Inter reserved for the sidebar contact card.
+   ========================================================================== */
+
+$font-body : 'Newsreader', 'Merriweather', Georgia, serif;
+$font-ui   : 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, li, dl, dt, dd, blockquote,
+.page__content,
+.page__title,
+.archive,
+.archive__item-title,
+.archive__subtitle,
+.masthead__inner-wrap,
+.greedy-nav a,
+.author__name,
+.author__bio,
+.paper-title,
+.jm-tag,
+.abstract-header,
+.abstract-content,
+.abstract-text,
+.cv-header-row h2,
+a.download-btn,
+a.teach-link,
+a.recap-link,
+a.bold-link,
+.page__footer,
+.page__footer-copyright,
+.page__footer-follow {
+  font-family: $font-body;
+}
+
+body,
+.page__content,
+.archive {
+  line-height: 1.7;
+}
+
+
 /*
    Red accent text — replaces the old $${\color{...}{\texttt{...}}}$$ MathJax
    hack. Use <span class="accent">…</span>, or add class="accent" to a link.
@@ -368,15 +413,23 @@ a.recap-link {
   display: block;
 }
 
-.theme-toggle .icon-sun { display: none; }
-.theme-toggle .icon-moon { display: block; }
+/* Light mode shows ONLY the moon (click -> dark). Dark mode shows ONLY the sun.
+   Scoped through .masthead__extras so these beat the generic `... svg` rule. */
+.masthead__extras .theme-toggle .icon-sun { display: none; }
+.masthead__extras .theme-toggle .icon-moon { display: block; color: #000; }
+
+.masthead__extras .theme-toggle:hover .icon-moon { color: $accent-red; }
 
 
 /*
    Sidebar contact card
    ========================================================================== */
 
+/* position/z-index: the base theme leaves z-index:-1 on this list at desktop
+   widths, which pushes it behind the page and makes the email unclickable. */
 .sidebar .author__urls {
+  position: relative;
+  z-index: 3;
   border: 1px solid $accent-red;
   border-radius: 10px;
   padding: 12px 14px;
@@ -391,7 +444,7 @@ a.recap-link {
 .sidebar .author__urls,
 .sidebar .author__urls li,
 .sidebar .author__urls a {
-  font-family: $sans-serif;
+  font-family: $font-ui;
   font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.6;
@@ -409,6 +462,9 @@ a.recap-link {
 
 .sidebar .author__urls a {
   display: inline;
+  position: relative;
+  z-index: 4;
+  pointer-events: auto;
   text-decoration: none;
   color: $accent-red;
 
@@ -461,6 +517,20 @@ a.hover-red {
   &:focus {
     color: $accent-red;
     text-decoration: none;
+  }
+}
+
+/* Home page institution links: bold, inherit the text colour (black in light
+   mode, white in dark mode) - no red. */
+a.bold-link {
+  color: inherit;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: inherit;
+    text-decoration: underline;
   }
 }
 
@@ -556,18 +626,22 @@ html[data-theme="dark"] {
 
   .sidebar .author__urls {
     background: $dark-bg-2;
-    border-color: $dark-border;
+    border-color: $accent-red;   /* frame stays red in dark mode */
     box-shadow: none;
   }
 
   .sidebar,
-  .author__urls a,
   .author__urls li {
     color: $dark-text-soft;
   }
 
-  .author__urls a:hover {
+  /* email keeps the red accent in dark mode too */
+  .sidebar .author__urls a {
     color: $dark-red;
+  }
+
+  .sidebar .author__urls a:hover {
+    color: #ff9a8e;
   }
 
   /* Dropdown cards */
@@ -631,6 +705,19 @@ html[data-theme="dark"] {
       color: $dark-red;
     }
   }
+
+  a.bold-link {
+    color: $dark-text;
+
+    &:hover,
+    &:focus {
+      color: $dark-text;
+      text-decoration: underline;
+    }
+  }
+
+  .masthead__extras .theme-toggle .icon-sun { display: block; }
+  .masthead__extras .theme-toggle .icon-moon { display: none; }
 
   /* CV page */
   a.download-btn {

@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="narrow-content" markdown="1">
 
-I am a PhD candidate at [CREST](https://crest.science/){: .hover-red}/[Ecole Polytechnique](https://www.polytechnique.edu){: .hover-red} under the supervision of Prof. [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/){: .hover-red} since October 2022.
+I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Polytechnique](https://www.polytechnique.edu){: .bold-link} under the supervision of Prof. [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/){: .bold-link} since October 2022.
 
 I will be on the **<span class="accent">2026-2027 job market</span>**.
 
