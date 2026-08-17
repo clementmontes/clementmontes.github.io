@@ -13,13 +13,13 @@ redirect_from:
 
 I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Polytechnique](https://www.polytechnique.edu){: .bold-link} under the supervision of Prof. [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/){: .bold-link} since October 2022.
 
-I will be on the **<span class="accent">2026-2027 job market</span>**.
+<span class="accent">I will be on the 2026-2027 job market</span>.
 
-In Spring 2025, I visited the UC Berkeley, hosted by Cecile Gaubert. 
-During February 2024, I was a visiting Drexel University, hosted by Yoto Yotov.
+My research focuses on the economic and political design of geoeconomic tools. I am particularly interested in (threat of) economic sanctions targeting specific firms.
 
-My research lies in the field of geoeconomics and international trade, with a focus on economic sanctions.  
+<strong>Research interests</strong>: Geoeconomics, International Trade, Industrial Organization
 
+In Spring 2025, I visited the UC Berkeley, hosted by Cecile Gaubert. In February 2024, I visited Drexel University, hosted by Yoto Yotov.
 
 </div>
 
