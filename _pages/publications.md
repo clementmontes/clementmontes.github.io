@@ -6,32 +6,18 @@ author_profile: true
 ---
 ### Work in progress
 
-## $${\color{purple}{\texttt{Sectoral vs. Firm-Level Sanctions in Trade Policy}}}$$
+## $${\color{purple}{\texttt{Sectoral vs. Firm-Level Sanctions in Trade Policy}}}$$ [Job Market Paper]
 
 <ul>
- <li> Draft coming soon!</li>
+ <li> This paper investigates the positive and normative implications of switching the types in sanction designs. I document a new empirical fact: in recent years, sanctions have increasingly targeted specific firms rather than entire sectors. I show that this shift is driven primarily by structural practices in how sanctions are imposed, rather than by geopolitical factors. To understand the rationale behind this shift, I develop a quantitative two-country model of heterogeneous firms that source inputs from both locations and compete oligopolistically in the final good markets. Sanctions can affect a firm's export access, its sourcing, or both simultaneously: in the first case, the sanction closes off access to the export market, while in the second, it raises the firm's production costs by forcing it to source a more expensive input bundle. The results show that firm-level sanctions split the burden between the sanctioning and target economies, whereas sectoral-level sanctions place most of the burden on the target economy. This difference is driven mainly by the demand-side component of the sanction, as the supply-side component has little impact on either economy's welfare. </li>
 </ul>
 
 ---
 
-## $${\color{purple}{\texttt{Firm Sanction DataBase: Unpacking the Location and Anticipations of Firm-Level Sanctions}}}$$
+## $${\color{purple}{\texttt{The Extraterritoriality of Smart Sanctions}}}$$
 
 <ul>
- <li> This paper presents the Firm Sanctioned Data Base (FSDB), a novel dataset
-documenting all entities sanctioned by the European Union from 2001 to 2025.
-The FSDB provides a detailed timeline of sanctions, including the date of threat,
-date of sanction, and lifting of sanctions when applicable. In addition, it tracks
-the addresses of targeted entities. Using this granular dataset, I revisit styl-
-ized facts from the literature by adding the intensity of sanctions. I further
-describe four threats to identification of the impact of sanctions. Two threats
-deal with a misclassification of location, accounting for a fourth of the FSDB
-entities. The two other biases come from the anticipation following the threat
-and extraterritorial sanctions, accounting for another half of the FSDB. I use
-this new information to estimate the impact of firm-level sanctions on disaggre-
-gated bilateral trade flows. I find that secondary sanctions decreased average
-trade flows of sanctioned products by 38%. Ignoring the staggered enforcement
-of sanctions considerably biases the estimate, and overlooking the anticipations
-increases the variance of the estimate of the impact.
+ <li> This paper presents the Firms Sanctioned DataBase (FSDB), a novel dataset documenting all firms and entities sanctioned by the European Union since 2001. The FSDB details the timeline of sanctions and the exact addresses of every targets inside of sanction programs (e.g., Iran, Russia). Using this granular dataset, I characterize anticipations and location of targets, and study how they affect the identification of the impact of sanctions on disaggregated bilateral trade flows. I find that extraterritorial sanctions decreased flows of firms' sanctioned products by 38%. The estimate is similar when solely accounting for the staggered enforcement, with an higher variance though. Ignoring the staggered enforcement of sanctions considerably biases the estimate.
 </li>
 </ul>
 
