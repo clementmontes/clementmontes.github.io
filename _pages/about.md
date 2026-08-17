@@ -15,7 +15,7 @@ I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Pol
 
 <span class="accent">I will be on the 2026-2027 job market</span>.
 
-My research focuses on the economic and political design of geoeconomic tools. I am particularly interested in (threat of) economic sanctions targeting specific firms.
+My research focuses on the economic and political design of geoeconomic tools. I am particularly interested in the (threat of) economic sanctions targeting specific firms.
 
 <strong>Research interests</strong>: Geoeconomics, International Trade, Industrial Organization
 

@@ -63,8 +63,8 @@ body,
 a.accent,
 .accent a {
   color: $accent-red;
-  font-family: $monospace;
-  font-size: 0.95em;
+  font-family: $font-body;   /* match the body font, not monospace */
+  font-size: 1em;
 }
 
 a.accent:hover,
@@ -494,6 +494,11 @@ a.recap-link {
   margin: 0 auto;
 }
 
+/* a little air between the photo and the name */
+.sidebar .author__avatar {
+  margin-bottom: 14px;
+}
+
 .sidebar .author__name {
   text-align: center;
   margin-bottom: 22px;
@@ -522,7 +527,9 @@ a.hover-red {
 
 /* Home page institution links: bold, inherit the text colour (black in light
    mode, white in dark mode) - no red. */
-a.bold-link {
+a.bold-link,
+.page__content a.bold-link,
+.archive a.bold-link {
   color: inherit;
   font-weight: 700;
   text-decoration: none;
@@ -706,7 +713,9 @@ html[data-theme="dark"] {
     }
   }
 
-  a.bold-link {
+  a.bold-link,
+  .page__content a.bold-link,
+  .archive a.bold-link {
     color: $dark-text;
 
     &:hover,
