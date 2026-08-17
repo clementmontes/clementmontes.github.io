@@ -2,6 +2,16 @@
 
 <!-- start custom head snippets -->
 
+<!-- Apply the saved colour theme before paint, so there is no light flash -->
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem('site-theme');
+      if (t === 'dark') { document.documentElement.setAttribute('data-theme', 'dark'); }
+    } catch (e) {}
+  })();
+</script>
+
 <link rel="icon" type="image/png" href="/assets/images/favicon-96x96.png" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" />
 <link rel="shortcut icon" href="/assets/images/favicon.ico" />

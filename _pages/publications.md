@@ -40,3 +40,5 @@ author_profile: true
 ## Work in Progress
 
 - <span class="paper-title">The determinants of the success rate of firm-level sanctions</span>
+
+<img src="https://clementmontes.github.io/files/FC.png" alt="Franche-Comté is beautiful" width="1200"/>

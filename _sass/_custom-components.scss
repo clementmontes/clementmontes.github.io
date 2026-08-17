@@ -304,3 +304,295 @@ a.recap-link {
     text-decoration: underline;
   }
 }
+
+
+/*
+   Masthead extras: GitHub icon + dark-mode toggle (replaces the hamburger)
+   ========================================================================== */
+
+/* Hide the theme's "open menu" hamburger button */
+.greedy-nav > button {
+  display: none !important;
+}
+
+.masthead__extras {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  z-index: 11;
+}
+
+.masthead-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  margin: 0;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: transparent;
+  color: $text-color;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.masthead-icon:hover,
+.masthead-icon:focus {
+  color: $accent-red;
+  border-color: $accent-red;
+  text-decoration: none;
+}
+
+/* Show moon in light mode, sun in dark mode */
+.theme-toggle .icon-sun { display: none; }
+.theme-toggle .icon-moon { display: block; }
+
+
+/*
+   Sidebar contact card
+   ========================================================================== */
+
+.sidebar .author__urls {
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  padding: 12px 14px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(#000, 0.04);
+  font-size: 0.78rem;
+
+  li {
+    white-space: normal;
+    margin-bottom: 4px;
+  }
+
+  a {
+    font-size: 0.78rem;
+  }
+}
+
+
+/*
+   Home page: links black, red only on hover
+   ========================================================================== */
+
+a.hover-red {
+  color: #000;
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover,
+  &:focus {
+    color: $accent-red;
+    text-decoration: none;
+  }
+}
+
+/* Keep the home image the same width as the text column */
+.narrow-content img,
+img.narrow-img {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+}
+
+
+/* ==========================================================================
+   DARK MODE
+   The base theme compiles fixed colours, so dark mode is an override layer
+   keyed on <html data-theme="dark"> (set by assets/js/theme-toggle.js).
+   ========================================================================== */
+
+$dark-bg        : #16181c;
+$dark-bg-2      : #1e2126;
+$dark-bg-3      : #272b31;
+$dark-text      : #e6e6e6;
+$dark-text-soft : #b9bec4;
+$dark-border    : #3a3f46;
+$dark-red       : #ff6b5b;
+
+html[data-theme="dark"] {
+  background: $dark-bg;
+
+  body {
+    background: $dark-bg;
+    color: $dark-text;
+  }
+
+  /* Masthead / nav */
+  .masthead {
+    background: $dark-bg;
+    border-bottom-color: $dark-border;
+  }
+
+  .greedy-nav,
+  .greedy-nav .visible-links {
+    background: $dark-bg;
+  }
+
+  .greedy-nav a {
+    color: $dark-text;
+
+    &:hover {
+      color: $dark-red;
+    }
+  }
+
+  .masthead-icon {
+    color: $dark-text;
+    border-color: $dark-border;
+
+    &:hover,
+    &:focus {
+      color: $dark-red;
+      border-color: $dark-red;
+    }
+  }
+
+  .theme-toggle .icon-sun { display: block; }
+  .theme-toggle .icon-moon { display: none; }
+
+  /* Text + headings */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .archive__item-title {
+    color: $dark-text;
+  }
+
+  .page__content h2 {
+    border-bottom-color: $dark-border;
+  }
+
+  p, li, dl, .page__content {
+    color: $dark-text;
+  }
+
+  hr {
+    border-color: $dark-border;
+  }
+
+  /* Sidebar */
+  .author__name,
+  .author__bio {
+    color: $dark-text;
+  }
+
+  .sidebar .author__urls {
+    background: $dark-bg-2;
+    border-color: $dark-border;
+    box-shadow: none;
+  }
+
+  .sidebar,
+  .author__urls a,
+  .author__urls li {
+    color: $dark-text-soft;
+  }
+
+  .author__urls a:hover {
+    color: $dark-red;
+  }
+
+  /* Dropdown cards */
+  .abstract-container {
+    background: $dark-bg-2;
+    border-color: $dark-border;
+    box-shadow: none;
+  }
+
+  .abstract-container:hover {
+    border-color: $dark-red;
+    box-shadow: 0 0 20px rgba(255, 107, 91, 0.15);
+  }
+
+  .abstract-header {
+    background: $dark-bg-2;
+  }
+
+  .abstract-header:hover {
+    background: $dark-bg-3;
+  }
+
+  .abstract-header.expanded {
+    background: mix($dark-bg-2, $dark-bg-3, 50%);
+  }
+
+  .abstract-header.expanded:hover {
+    background: $dark-bg-3;
+  }
+
+  .abstract-content,
+  .abstract-text {
+    color: $dark-text-soft;
+  }
+
+  .paper-title {
+    color: $dark-text;
+  }
+
+  .arrow,
+  .jm-tag,
+  .accent,
+  .draft-button a,
+  a.recap-link {
+    color: $dark-red;
+  }
+
+  a.teach-link {
+    color: $dark-text;
+
+    &:hover {
+      color: $dark-red;
+    }
+  }
+
+  a.hover-red {
+    color: $dark-text;
+
+    &:hover,
+    &:focus {
+      color: $dark-red;
+    }
+  }
+
+  /* CV page */
+  a.download-btn {
+    color: $dark-red;
+    border-color: $dark-red;
+
+    &:hover,
+    &:focus {
+      background: $dark-red;
+      color: $dark-bg;
+    }
+  }
+
+  .cv-pdf-container {
+    background: $dark-bg-2;
+    border-color: $dark-border;
+  }
+
+  /* Footer */
+  .page__footer {
+    background-color: $dark-bg-2;
+    border-top-color: $dark-border;
+    color: $dark-text-soft;
+  }
+
+  .page__footer a {
+    color: $dark-text-soft;
+  }
+
+  /* Generic links inside content */
+  .page__content a,
+  .archive a {
+    color: $dark-red;
+  }
+}
