@@ -1,0 +1,149 @@
+/* ==========================================================================
+   CUSTOM COMPONENTS
+   (Bigger profile photo, narrower welcome text, collapsible "abstract"
+   dropdowns, and an embedded CV/resume preview — ported from the layout
+   ideas on peppecon.github.io and adapted to this theme's variables.)
+   ========================================================================== */
+
+$accent-red          : #c0392b;
+$accent-red-hover    : #8e1c1c;
+
+
+/*
+   Bigger profile photo (desktop) + a bit more breathing room in the sidebar
+   ========================================================================== */
+
+@include breakpoint($large) {
+  .author__avatar img {
+    max-width: 220px;
+  }
+
+  .sidebar {
+    @include span(3 of 12);
+  }
+
+  .archive {
+    @include span(9 of 12 last);
+    @include prefix(0.5 of 12);
+  }
+
+  .page {
+    @include span(9 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(3 of 12);
+  }
+}
+
+
+/*
+   Narrower text column (used on the welcome / about page)
+   ========================================================================== */
+
+.narrow-content {
+  max-width: 640px;
+}
+
+
+/*
+   Collapsible "abstract" dropdowns (Research / Working Papers)
+   ========================================================================== */
+
+.abstract-container {
+  margin: 30px 0;
+  border: 1px solid $border-color;
+  border-radius: 16px;
+  background: $lighter-gray;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(#000, 0.04);
+}
+
+.abstract-container:hover {
+  border-color: $accent-red;
+  box-shadow: 0 0 20px rgba(192, 57, 43, 0.12);
+}
+
+.abstract-header {
+  padding: 12px 20px;
+  cursor: pointer;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background 0.2s;
+}
+
+.abstract-header:hover {
+  background: $border-color;
+}
+
+.abstract-header .arrow {
+  font-size: 0.8rem;
+  color: $accent-red;
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+
+.abstract-header.expanded .arrow {
+  transform: rotate(90deg);
+}
+
+.abstract-content {
+  display: none;
+  padding: 20px 30px 40px 30px;
+  color: $dark-gray;
+  font-size: 1.05rem;
+}
+
+.abstract-text {
+  line-height: 1.6;
+}
+
+.draft-button {
+  margin-top: 20px;
+
+  a {
+    color: $accent-red;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent-red-hover;
+      text-decoration: underline;
+    }
+  }
+}
+
+.link-secondary {
+  font-size: 0.9rem;
+  font-weight: normal;
+  margin-left: 10px;
+  color: $accent-red;
+}
+
+@include breakpoint(max-width $small) {
+  .abstract-content {
+    padding: 15px 15px 30px;
+    font-size: 1rem;
+  }
+}
+
+
+/*
+   Embedded CV / resume preview
+   ========================================================================== */
+
+.cv-pdf-container {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid $border-color;
+  box-shadow: 0 4px 16px rgba(#000, 0.08);
+  background: $lighter-gray;
+
+  iframe {
+    display: block;
+    border: none;
+    width: 100%;
+  }
+}
