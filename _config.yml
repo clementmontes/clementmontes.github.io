@@ -84,10 +84,12 @@ author:
   avatar           : "CM_photo.jpeg"
   bio              : "PhD candidate in Economics at CREST/IP Paris"
   location         : "Paris, France"
+  office           : "Office 4061 at CREST"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "clement.montes@ensae.fr"
+  email_display    : "clement.montes [at] ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "clementmontes"
+  github           :
   google_plus      :
   keybase          :
   instagram        :

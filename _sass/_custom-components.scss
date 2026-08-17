@@ -32,9 +32,19 @@ a.accent:hover,
    Bigger profile photo (desktop) + a bit more breathing room in the sidebar
    ========================================================================== */
 
+/* Rectangular profile photo with a fine red border (all pages) */
+.author__avatar img {
+  border-radius: 4px;
+  border: 1px solid $accent-red;
+  padding: 3px;
+}
+
 @include breakpoint($large) {
   .author__avatar img {
     max-width: 220px;
+    border-radius: 4px;
+    border: 1px solid $accent-red;
+    padding: 3px;
   }
 
   .sidebar {
@@ -266,5 +276,31 @@ a.download-btn svg {
 
   a {
     margin-left: 0;
+  }
+}
+
+
+/*
+   Teaching page: everything black except the Recap links
+   ========================================================================== */
+
+a.teach-link {
+  color: #000;
+  text-decoration: none;
+
+  &:hover {
+    color: #000;
+    text-decoration: underline;
+  }
+}
+
+a.recap-link {
+  color: $accent-red;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    color: $accent-red-hover;
+    text-decoration: underline;
   }
 }

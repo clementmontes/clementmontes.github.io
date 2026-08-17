@@ -21,7 +21,8 @@ During February 2024, I was a visiting Drexel University, hosted by Yoto Yotov.
 My research lies in the field of geoeconomics and international trade, with a focus on economic sanctions.  
 
 **<span class="accent">Contact</span>**: clement.montes@ensae.fr  
-**<span class="accent">Office</span>**: 4061, 4th floor at CREST
+**<span class="accent">Office</span>**: 4061, 4th floor at CREST  
+**<span class="accent">Github</span>**: [github.com/clementmontes](https://github.com/clementmontes){: .accent}
 
 </div>
 
