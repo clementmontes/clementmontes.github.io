@@ -13,8 +13,8 @@ author_profile: true
   <div class="abstract-content">
     <div class="abstract-text">
       <ul>
-        <li>Fall 2026 &ndash; International Trade, TA for Thierry Mayer (Sciences Po Paris)</li>
-        <li>December 2025 &ndash; International Economics, session invited by Gregory Corcos and David Guereiro (Ecole Polytechnique)
+        <li>Fall 2026 &ndash; <a class="teach-link" href="https://syllabus.sciencespo.fr/en/?mapping/189380" target="_blank" rel="noopener noreferrer">International Trade</a>, TA for Thierry Mayer (Sciences Po Paris)</li>
+        <li>December 2025 &ndash; <a class="teach-link" href="https://moodle.ip-paris.fr/course/info.php?id=10775&lang=en" target="_blank" rel="noopener noreferrer">International Economics</a>, session invited by Gregory Corcos and David Guereiro (Ecole Polytechnique)
           <ul>
             <li>Slides on <strong>geoeconomics of sanctions</strong> upon request.</li>
           </ul>

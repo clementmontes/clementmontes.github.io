@@ -425,9 +425,18 @@ a.recap-link {
    Sidebar contact card
    ========================================================================== */
 
-/* position/z-index: the base theme leaves z-index:-1 on this list at desktop
+/* The theme's _main.js runs $(".author__urls").hide() whenever the "Follow"
+   button is visible (i.e. on phones), writing an inline display:none that no
+   normal rule can beat - hence !important. We also hide the Follow button
+   itself, which flips that same JS check to "show".
+   position/z-index: the base theme leaves z-index:-1 on this list at desktop
    widths, which pushes it behind the page and makes the email unclickable. */
+.sidebar .author__urls-wrapper button {
+  display: none !important;
+}
+
 .sidebar .author__urls {
+  display: inline-block !important;
   position: relative;
   z-index: 3;
   border: 1px solid $accent-red;
@@ -497,6 +506,22 @@ a.recap-link {
 /* a little air between the photo and the name */
 .sidebar .author__avatar {
   margin-bottom: 14px;
+}
+
+/* Phones / tablets: stack photo -> name -> contact frame, all centred */
+@include breakpoint(max-width $large) {
+  .sidebar {
+    margin-bottom: 2em;
+  }
+
+  .sidebar .author__urls {
+    margin-top: 12px;
+    margin-bottom: 0;
+  }
+
+  .sidebar .author__avatar img {
+    max-width: 200px;
+  }
 }
 
 .sidebar .author__name {
@@ -637,13 +662,27 @@ html[data-theme="dark"] {
     box-shadow: none;
   }
 
-  .sidebar,
-  .author__urls li {
+  .sidebar {
     color: $dark-text-soft;
   }
 
-  /* email keeps the red accent in dark mode too */
-  .sidebar .author__urls a {
+  /* the <i> glyphs (map pin, building) inherit their colour, so they need to
+     be covered here too or they stay dark on the dark card */
+  .sidebar .author__urls,
+  .sidebar .author__urls li,
+  .sidebar .author__urls i,
+  .sidebar .author__urls .fa,
+  .sidebar .author__urls .fas,
+  .sidebar .author__urls .fab,
+  .sidebar .author__urls .ai {
+    color: $dark-text;
+  }
+
+  /* email keeps the red accent in dark mode too (declared after the rule
+     above so it wins the equal-specificity tie) */
+  .sidebar .author__urls a,
+  .sidebar .author__urls a i,
+  .sidebar .author__urls a .fas {
     color: $dark-red;
   }
 
