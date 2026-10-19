@@ -32,8 +32,8 @@ author_profile: true
   <div class="abstract-content">
     <div class="abstract-text">
       <ul>
-        <li>Spring 2024 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations" target="_blank" rel="noopener noreferrer">Macroeconomics of fluctuation</a>, TA for Franck Malherbet and Pablo Winant</li>
-        <li>Fall 2023, 2024, 2025 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5841-macroeconomie-1" target="_blank" rel="noopener noreferrer">Macroeconomics of growth</a>, TA for Olivier Loisel<br>
+        <li>Spring 2024 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations" target="_blank" rel="noopener noreferrer">Macroeconomics of fluctuation</a>, TA for Franck Malherbet and Pablo Winant (ENSAE Paris)</li>
+        <li>Fall 2023, 2024, 2025 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5841-macroeconomie-1" target="_blank" rel="noopener noreferrer">Macroeconomics of growth</a>, TA for Olivier Loisel (ENSAE Paris)<br>
           <a class="recap-link" href="https://clementmontes.github.io/files/Recap1.pdf" target="_blank" rel="noopener noreferrer">Recap 1</a> &nbsp;
           <a class="recap-link" href="https://clementmontes.github.io/files/Recap2.pdf" target="_blank" rel="noopener noreferrer">Recap 2</a> &nbsp;
           <a class="recap-link" href="https://clementmontes.github.io/files/Recap3.pdf" target="_blank" rel="noopener noreferrer">Recap 3</a> &nbsp;

@@ -15,8 +15,7 @@ I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Pol
 
 <span class="accent">I am on the 2026-2027 job market</span>.
 
-My research focuses on the economic and political design of geoeconomic tools. I am particularly interested in the (threat of) economic sanctions targeting specific firms.
-
+My research focuses on the economic and political design of geoeconomic tools. I combine data collection, empirical estimation, and applied theory to study the threat and enforcement of economic sanctions targeting specific firms. My current work estimates structural gravity equations on granular data to measure how sanctions reshape trade flows and simulates a quantitative model to study their incidence.
 <strong>Research interests</strong>: Geoeconomics, International Trade
 
 In Spring 2025, I visited UC Berkeley, hosted by Cecile Gaubert. In February 2024, I visited Drexel University, hosted by Yoto Yotov.
