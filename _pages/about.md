@@ -12,19 +12,18 @@ redirect_from:
 <div class="narrow-content" markdown="1">
 
 I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Polytechnique](https://www.polytechnique.edu){: .bold-link} under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/){: .bold-link} since October 2022. I am also a teaching fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/){: .bold-link} since September 2026.
+My research focuses on the economic and political design of geoeconomic tools. I combine data collection, empirical estimation, and applied theory to study the threat and enforcement of economic sanctions targeting specific firms. My current work estimates structural gravity equations on granular data to measure how sanctions reshape trade flows and simulates a quantitative model to study their incidence.
 
 <span class="accent">I am on the 2026-2027 job market</span>.
 
-<strong>Research interests</strong>: Geoeconomics, International Trade
 
-<p style="text-align: center; margin: 1.2em 0;">
-  <a href="https://sites.google.com/site/alessandroriboni/">Alessandro Riboni</a> &nbsp;·&nbsp;
-  <a href="https://sites.google.com/site/clementmalgouyres/">Clément Malgouyres</a> &nbsp;·&nbsp;
-  <a href="https://matthieucrozet.weebly.com">Matthieu Crozet</a> &nbsp;·&nbsp;
-  <a href="https://yotoyotov.com">Yoto V. Yotov</a>
+<p style="text-align: center; margin: 1.5em 0; line-height: 1.8;">
+  References<br>
+  <span style="white-space: nowrap;"><a href="https://sites.google.com/site/alessandroriboni/" class="bold-link">Alessandro Riboni</a></span> &nbsp;·&nbsp;
+  <span style="white-space: nowrap;"><a href="https://sites.google.com/site/clementmalgouyres/" class="bold-link">Clément Malgouyres</a></span> &nbsp;·&nbsp;
+  <span style="white-space: nowrap;"><a href="https://matthieucrozet.weebly.com" class="bold-link">Matthieu Crozet</a></span> &nbsp;·&nbsp;
+  <span style="white-space: nowrap;"><a href="https://yotoyotov.com" class="bold-link">Yoto V. Yotov</a></span>
 </p>
-
-My research focuses on the economic and political design of geoeconomic tools. I combine data collection, empirical estimation, and applied theory to study the threat and enforcement of economic sanctions targeting specific firms. My current work estimates structural gravity equations on granular data to measure how sanctions reshape trade flows and simulates a quantitative model to study their incidence.
 
 
 In Spring 2025, I visited UC Berkeley, hosted by Cecile Gaubert. In February 2024, I visited Drexel University, hosted by Yoto Yotov.
