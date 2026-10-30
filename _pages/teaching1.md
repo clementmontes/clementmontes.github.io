@@ -97,4 +97,4 @@ author_profile: true
   </div>
 </div>
 
-<img src="https://clementmontes.github.io/files/IcebergTradeCost.png" alt="Iceberg trade cost in practice" width="1200"/>
+![Patience is key](https://clementmontes.github.io/files/Volcan.png){: .narrow-img}
