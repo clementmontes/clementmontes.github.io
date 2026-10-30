@@ -32,9 +32,12 @@ In Spring 2025, I visited UC Berkeley, hosted by Cecile Gaubert. In February 202
 
 ---
 <figure style="text-align: center; margin: 2.5em auto;">
-  <img src="/files/sanctions_FSDB.gif"
-       alt="Smart sanctions by the European Union over time"
-       style="max-width: 100%; height: auto;">
+  <picture>
+    <source srcset="/files/sanctions_FSDB_dark.gif" media="(prefers-color-scheme: dark)">
+    <img src="/files/sanctions_FSDB_light.gif"
+         alt="Smart sanctions by the European Union over time"
+         style="max-width: 100%; height: auto;">
+  </picture>
   <figcaption style="font-size: 0.85em; margin-top: 0.6em;">
     Cities impacted by European smart sanctions in 2001–2025. Computed using the Firms Sanctioned Data Base (FSDB): see "The Extraterritoriality of Smart Sanctions" for more details.
   </figcaption>
