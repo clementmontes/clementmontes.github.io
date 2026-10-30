@@ -17,13 +17,12 @@ I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Pol
 
 <strong>Research interests</strong>: Geoeconomics, International Trade
 
-<div style="text-align: center; margin: 2em auto; line-height: 1.7;">
-  <strong>References</strong><br>
-  <a href="https://sites.google.com/site/alessandroriboni/" class="bold-link">Alessandro Riboni</a><br>
-  <a href="https://sites.google.com/site/clementmalgouyres/" class="bold-link">Clément Malgouyres</a><br>
-  <a href="https://matthieucrozet.weebly.com" class="bold-link">Matthieu Crozet</a><br>
-  <a href="https://yotoyotov.com" class="bold-link">Yoto V. Yotov</a>
-</div>
+<p style="text-align: center; margin: 1.2em 0;">
+  <a href="https://sites.google.com/site/alessandroriboni/">Alessandro Riboni</a> &nbsp;·&nbsp;
+  <a href="https://sites.google.com/site/clementmalgouyres/">Clément Malgouyres</a> &nbsp;·&nbsp;
+  <a href="https://matthieucrozet.weebly.com">Matthieu Crozet</a> &nbsp;·&nbsp;
+  <a href="https://yotoyotov.com">Yoto V. Yotov</a>
+</p>
 
 My research focuses on the economic and political design of geoeconomic tools. I combine data collection, empirical estimation, and applied theory to study the threat and enforcement of economic sanctions targeting specific firms. My current work estimates structural gravity equations on granular data to measure how sanctions reshape trade flows and simulates a quantitative model to study their incidence.
 
