@@ -9,6 +9,22 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .gif-dark { display: none; }
+
+  html[data-theme="dark"] .gif-light,
+  body[data-theme="dark"] .gif-light,
+  html.dark .gif-light,
+  body.dark .gif-light,
+  body.dark-theme .gif-light { display: none; }
+
+  html[data-theme="dark"] .gif-dark,
+  body[data-theme="dark"] .gif-dark,
+  html.dark .gif-dark,
+  body.dark .gif-dark,
+  body.dark-theme .gif-dark { display: inline; }
+</style>
+
 <div class="narrow-content" markdown="1">
 
 I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Polytechnique](https://www.polytechnique.edu){: .bold-link} under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/){: .bold-link} since October 2022. I am also a teaching fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/){: .bold-link} since September 2026.
@@ -31,13 +47,14 @@ In Spring 2025, I visited UC Berkeley, hosted by Cecile Gaubert. In February 202
 </div>
 
 ---
+
 <figure style="text-align: center; margin: 2.5em auto;">
-  <picture>
-    <source srcset="/files/sanctions_FSDB_dark.gif" media="(prefers-color-scheme: dark)">
-    <img src="/files/sanctions_FSDB_light.gif"
-         alt="Smart sanctions by the European Union over time"
-         style="max-width: 100%; height: auto;">
-  </picture>
+  <img class="gif-light" src="/files/sanctions_FSDB_light.gif"
+       alt="Smart sanctions by the European Union over time"
+       style="max-width: 100%; height: auto;">
+  <img class="gif-dark" src="/files/sanctions_FSDB_dark.gif"
+       alt=""
+       style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.85em; margin-top: 0.6em;">
     Cities impacted by European smart sanctions in 2001–2025. Computed using the Firms Sanctioned Data Base (FSDB): see "The Extraterritoriality of Smart Sanctions" for more details.
   </figcaption>
