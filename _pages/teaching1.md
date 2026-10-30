@@ -34,23 +34,31 @@ author_profile: true
   <div class="abstract-content">
     <div class="abstract-text">
       <ul>
-        <li>Spring 2024 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations" target="_blank" rel="noopener noreferrer">Macroeconomics of fluctuation</a>, TA for Franck Malherbet and Pablo Winant (ENSAE Paris)</li>
-        <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz1_Macro2.pdf" target="_blank" rel="noopener noreferrer">Quiz 1</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz2_Macro2.pdf" target="_blank" rel="noopener noreferrer">Quiz 2</a>
-        <li>Fall 2023, 2024, 2025 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5841-macroeconomie-1" target="_blank" rel="noopener noreferrer">Macroeconomics of growth</a>, TA for Olivier Loisel (ENSAE Paris)<br>
-          <a class="recap-link" href="https://clementmontes.github.io/files/Recap1.pdf" target="_blank" rel="noopener noreferrer">Recap 1</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Recap2.pdf" target="_blank" rel="noopener noreferrer">Recap 2</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Recap3.pdf" target="_blank" rel="noopener noreferrer">Recap 3</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Recap4.pdf" target="_blank" rel="noopener noreferrer">Recap 4</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz1_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 1</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz2_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 2</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz3_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 3</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz4_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 4</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz5_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 5</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz6_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 6</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz7_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 7</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz8_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 8</a> &nbsp;
-          <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz9_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 9</a> 
+        <li>Spring 2024 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5707-macroeconomie-2-fluctuations" target="_blank" rel="noopener noreferrer">Macroeconomics of fluctuation</a>, TA for Franck Malherbet and Pablo Winant (ENSAE Paris)
+          <div class="links-row">
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz1_Macro2.pdf" target="_blank" rel="noopener noreferrer">Quiz 1</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz2_Macro2.pdf" target="_blank" rel="noopener noreferrer">Quiz 2</a>
+          </div>
+        </li>
+
+        <li>Fall 2023, 2024, 2025 &ndash; <a class="teach-link" href="https://www.ensae.fr/courses/5841-macroeconomie-1" target="_blank" rel="noopener noreferrer">Macroeconomics of growth</a>, TA for Olivier Loisel (ENSAE Paris)
+          <div style="margin-left: 1.5em; margin-top: 0.25em; display: flex; flex-wrap: wrap; gap: 0.35em 1em;">
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz1_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 1</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz2_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 2</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz3_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 3</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz4_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 4</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz5_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 5</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz6_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 6</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz7_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 7</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz8_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 8</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Quiz/Quiz9_Macro1.pdf" target="_blank" rel="noopener noreferrer">Quiz 9</a>
+          </div>
+          <div style="margin-left: 1.5em; margin-top: 0.25em; display: flex; flex-wrap: wrap; gap: 0.35em 1em;">
+            <a class="recap-link" href="https://clementmontes.github.io/files/Recap1.pdf" target="_blank" rel="noopener noreferrer">Recap 1</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Recap2.pdf" target="_blank" rel="noopener noreferrer">Recap 2</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Recap3.pdf" target="_blank" rel="noopener noreferrer">Recap 3</a>
+            <a class="recap-link" href="https://clementmontes.github.io/files/Recap4.pdf" target="_blank" rel="noopener noreferrer">Recap 4</a>
+          </div>
         </li>
       </ul>
     </div>

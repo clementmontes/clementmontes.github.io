@@ -12,7 +12,7 @@ redirect_from:
 <div class="narrow-content" markdown="1">
 
 I am a PhD candidate at [CREST](https://crest.science/){: .bold-link}/[Ecole Polytechnique](https://www.polytechnique.edu){: .bold-link} under the supervision of [Alessandro Riboni](https://sites.google.com/site/alessandroriboni/){: .bold-link} since October 2022. I am also a teaching fellow at [Sciences Po](https://www.sciencespo.fr/department-economics/){: .bold-link} since September 2026.
-My research focuses on the economic and political design of geoeconomic tools. I combine data collection, empirical estimation, and applied theory to study the threat and enforcement of economic sanctions targeting specific firms. My current work estimates structural gravity equations on granular data to measure how sanctions reshape trade flows and simulates a quantitative model to study their incidence.
+My research focuses on the economic and political design of geoeconomic tools. I combine data collection, empirical estimations, and applied theory to study the threat and enforcement of economic sanctions. 
 
 <span class="accent">I am on the 2026-2027 job market</span>.
 
@@ -33,10 +33,10 @@ In Spring 2025, I visited UC Berkeley, hosted by Cecile Gaubert. In February 202
 ---
 <figure style="text-align: center; margin: 2.5em auto;">
   <img src="/files/sanctions_FSDB.gif"
-       alt="Firms sanctioned by the European Union over time"
+       alt="Smart sanctions by the European Union over time"
        style="max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.85em; margin-top: 0.6em;">
-    Cities impacted by European smart sanctions, 2001–2025 (FSDB). See "The Extraterritoriality of Smart Sanctions" for more details on the dataset.
+    Cities impacted by European smart sanctions in 2001–2025. Computed using the Firms Sanctioned Data Base (FSDB): see "The Extraterritoriality of Smart Sanctions" for more details.
   </figcaption>
 </figure>
 
